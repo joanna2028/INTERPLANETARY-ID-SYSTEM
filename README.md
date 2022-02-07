@@ -1,5 +1,5 @@
 
-INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports
+INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports.    DECENTRALIZED DIGITAL IDENTITY.  DID: Planet Earth 
 
 
 Planet Earth Identity Wallet —> Global Digital Passports (Storage on IPFS) 
