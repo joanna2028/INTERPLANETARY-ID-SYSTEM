@@ -43,9 +43,9 @@ To issue universal acceptance digital passports we need Digital Identifiers that
 
 Currently we use Emails or Phones with different passwords to access websites and apps.
 
-Existing wallet addresses like Metamask we use to exchange Cryptocurrency. 
+There are wallet addresses like Metamask we use to exchange Cryptocurrency, could be also walletconnect, phantom, whatever... plenty of that. But there is not ONE Global wallet address that Proof our Identity as a global standar to interact with the entire Planet Earth Jurisdiction as a Blockchain.
 
-For instance here:
+Let's take a look here:
 
 Ethereum Blockchain uses Metamask wallet to access and to sign the transactions to exchange many, to build an app, to interact with the Ethereum Blockchain.
 
