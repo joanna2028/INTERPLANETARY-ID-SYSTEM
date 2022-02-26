@@ -1,5 +1,8 @@
 
-INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports.   IDENTITY WALLETS : Companies - Nations - Global Citizens
+INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports.   
+
+
+IDENTITY WALLETS : Companies - Nations - Global Citizens
 
 
 DECENTRALIZED DIGITAL IDENTITY.  DID: Planet Earth 
