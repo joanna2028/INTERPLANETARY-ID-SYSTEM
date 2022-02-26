@@ -2,10 +2,13 @@
 INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports.   
 
 
+
 IDENTITY WALLETS : Companies - Nations - Global Citizens
 
 
+
 DECENTRALIZED DIGITAL IDENTITY.  DID: Planet Earth 
+
 
 
 Planet Earth Identity Wallet —> Global Digital Passports (Storage on IPFS) 
@@ -66,7 +69,6 @@ How it works….?
 
 Here is Alice…  Her digital wallet, like Metamask, everyone know here, generates a unique identifier as signs it using a private key, other thing every people in Crypto know, (we have to move this to other functionalities, more useful for the entire population on the planet earth)
 This Private Key is secure by a Biometric proof or pin that only she knows…
-
 
 
 
