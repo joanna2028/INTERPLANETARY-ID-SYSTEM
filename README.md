@@ -1,28 +1,29 @@
 
-INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports.   
+# INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports. 
 
 
-
-IDENTITY WALLETS : Companies - Nations - Global Citizens
-
+# IDENTITY WALLETS for Companies - Nations - Global Citizens
 
 
-DECENTRALIZED DIGITAL IDENTITY.  DID: Planet Earth 
+https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit
+
+https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/edit
 
 
-
-Planet Earth Identity Wallet —> Global Digital Passports (Storage on IPFS) 
-
+# DECENTRALIZED DIGITAL IDENTITY.  DIDs: Planetary Citizens
 
 
-I built a new Blockchain on Polygon for a Global Planet Earth Digital Jurisdiction
-
-I build a new Wallet ID
-
-I built a Web Browser extension of the wallet and Mobile app to allow people to interact on the new Blockchain Global Digital Jurisdiction of Planet Earth.
+Planet Earth Identity Wallets —> Global Digital Passports (Storaged on IPFS) 
 
 
-Introduction:
+1- I built a New Blockchain on Polygon for a Global Planet Earth Digital Jurisdiction
+
+2- I built a new Wallet ID
+
+3- I built a Web Browser extension of the wallet and Mobile app to allow people to interact on the new Blockchain Global Digital Jurisdiction of Planet Earth = E-NET = The next generation of internet.
+
+
+# Introduction:
 
 Ethereum works with a digital wallet (Metamask) 
 
@@ -32,10 +33,10 @@ I am downloading Ethereum to the real world —> So we need a digital wallet to 
 
 
 
-PLANET EARTH DIGITAL IDENTITY
+# PLANET EARTH DIGITAL IDENTITY
 
 
-FIRST,:
+# FIRST,:
 
 There is not standard mechanism for issuance of digital IDs.
 
@@ -51,7 +52,7 @@ Currently we use Emails or Phones with different passwords to access websites an
 
 There are wallet addresses like Metamask we use to exchange Cryptocurrency, could be also walletconnect, phantom, whatever... plenty of that. But there is not ONE Global wallet address that Proof our Identity as a global standar to interact with the entire Planet Earth Jurisdiction as a Blockchain.
 
-Let's take a look here:
+# Let's take a look here:
 
 Ethereum Blockchain uses Metamask wallet to access and to sign the transactions to exchange many, to build an app, to interact with the Ethereum Blockchain.
 
@@ -65,11 +66,10 @@ Not only use the Blockchain as Ethereal was created to build apps, to exchange m
 There is not either, standard universal for expressing —> exchanging —> verifying —> Credentials or IDs.
 
 
-How it works….?
+# How it works….?
 
 Here is Alice…  Her digital wallet, like Metamask, everyone know here, generates a unique identifier as signs it using a private key, other thing every people in Crypto know, (we have to move this to other functionalities, more useful for the entire population on the planet earth)
 This Private Key is secure by a Biometric proof or pin that only she knows…
-
 
 
 
@@ -84,37 +84,37 @@ Being Global Citizens of the Planet Earth interacting on the Blockchain Planet E
 Track the government spending on the Blockchain Planet Earth (Track per country)
 Track the business between Private sector and public sector on the Blockchain Planet Earth 
 
-To sum up: 
+
+# Summary:
 
 We are merging with Consensys to create ID Global Wallets for:
 
-Citizens of the world
-Nations of the world
-Companies of the world.
+1- Citizens of the world
+2- Nations of the world
+3- Companies of the world.
 
 Not only we can track the spendings of the governments and the business between Private Sector and Public Sector but also, we can use it for:
 
-Taxation
-Voting
-Border crossing
-Medical records
+* Taxation
+* Voting
+* Border crossing
+* Medical records
 
-(Just to list some, also you can get a loan, purchase a house… infinite oo)
+(Just to list some, also you can get a loan, purchase a house… )
 
 
 
-KEY words:  INDIVIDUALS CONTROL , ENABLING TRUSTED 
+# KEY words:  INDIVIDUALS CONTROL , ENABLING TRUSTED 
 
 ——
 
-Sovereign Individual:
-
+# Sovereign Individual:
 
 
 How identity and historical inertia affects people? This is a classic issue with “hyper systems” folks (people who think at the macro macro scale). They don’t think about people or identity! This is tough: systems are the opposite of individuals. But we need to think about identity…
 
 
-——
+--
 
 A digital identity wallet enables a user to establish relationships and interact with third parties in a trusted manner. While the wallet aspect is mainly dealing with key management, storage aspects and the graphical interface (UI = User Interface), the third party interactions are rather organised by your agent, which is a part of your wallet. Your agent handles third-party interactions in your name and acts in your interest. It is a piece of software, which helps you to stay in control of your messaging, security, health records, privacy, purchases etc.
 
@@ -124,8 +124,6 @@ A good comparison is a wallet for cryptocurrencies — think of an exchange like
 
 
 A digital identity wallet, which follows the principles of SSI enables the user to have data sovereignty and complete control as well as data portability. It provides you with the necessary autonomy to be independent of a third party. It not only enables ownership but also possession. It enables transparency and explicit consent when sharing information. It’s also vendor-independent, meaning you can export your data and import it into another wallet of your choice since it is built on open standards, which are widely used. It also creates peer identifiers for every new contact or rather an interaction, instead of getting an identifier assigned to it.
-
-
 
 
 
@@ -139,21 +137,19 @@ A transparent history of shared data:
 Since the wallet usually keeps a history of interactions, the user can track who shared what data and when. This leads to greater transparency for the user and helps to better exercise data protection rights. 
 
 
-Appendix:
-
-
-Data integrity
+# Data integrity
 
 Tampering which such public records can affect citizens, business and publics services…
 
 By indexing the store data with hashes and put on the ledger we can prevent such tampering…. (Educate people to get the responsibility of their own data) —> Reputation for example
 
-Benefits;
+
+# Benefits;
 
 Borders controls improve…
 Efficient Taxation…
 
-Also can prevent:
+# Also can prevent:
 
 Fake news.. 
 Campaign disinformation..
@@ -163,7 +159,7 @@ Hacking the voting software..
 Because all of us have to get the power on our own with so much responsibility 
 
 
-Blockchain built is for:
+# Blockchain built is for:
 
 Voting (video, vote, card...POH)
 Tax systems
