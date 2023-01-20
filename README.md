@@ -36,7 +36,7 @@ I am downloading Ethereum to the real world —> So we need a digital wallet to 
 # PLANET EARTH DIGITAL IDENTITY
 
 
-# FIRST,:
+FIRST,
 
 There is not standard mechanism for issuance of digital IDs.
 
@@ -89,9 +89,9 @@ Track the business between Private sector and public sector on the Blockchain Pl
 
 We are merging with Consensys to create ID Global Wallets for:
 
-1- Citizens of the world
-2- Nations of the world
-3- Companies of the world.
+• Citizens of the world
+• Nations of the world
+• Companies of the world.
 
 Not only we can track the spendings of the governments and the business between Private Sector and Public Sector but also, we can use it for:
 
@@ -114,7 +114,7 @@ Not only we can track the spendings of the governments and the business between 
 How identity and historical inertia affects people? This is a classic issue with “hyper systems” folks (people who think at the macro macro scale). They don’t think about people or identity! This is tough: systems are the opposite of individuals. But we need to think about identity…
 
 
---
+——
 
 A digital identity wallet enables a user to establish relationships and interact with third parties in a trusted manner. While the wallet aspect is mainly dealing with key management, storage aspects and the graphical interface (UI = User Interface), the third party interactions are rather organised by your agent, which is a part of your wallet. Your agent handles third-party interactions in your name and acts in your interest. It is a piece of software, which helps you to stay in control of your messaging, security, health records, privacy, purchases etc.
 
@@ -124,7 +124,6 @@ A good comparison is a wallet for cryptocurrencies — think of an exchange like
 
 
 A digital identity wallet, which follows the principles of SSI enables the user to have data sovereignty and complete control as well as data portability. It provides you with the necessary autonomy to be independent of a third party. It not only enables ownership but also possession. It enables transparency and explicit consent when sharing information. It’s also vendor-independent, meaning you can export your data and import it into another wallet of your choice since it is built on open standards, which are widely used. It also creates peer identifiers for every new contact or rather an interaction, instead of getting an identifier assigned to it.
-
 
 
 Establish trusted relationships with third parties:
@@ -137,6 +136,7 @@ A transparent history of shared data:
 Since the wallet usually keeps a history of interactions, the user can track who shared what data and when. This leads to greater transparency for the user and helps to better exercise data protection rights. 
 
 
+
 # Data integrity
 
 Tampering which such public records can affect citizens, business and publics services…
@@ -144,26 +144,28 @@ Tampering which such public records can affect citizens, business and publics se
 By indexing the store data with hashes and put on the ledger we can prevent such tampering…. (Educate people to get the responsibility of their own data) —> Reputation for example
 
 
+
 # Benefits;
 
-Borders controls improve…
-Efficient Taxation…
+• Borders controls improve…
+• Efficient Taxation…
+
 
 # Also can prevent:
 
-Fake news.. 
-Campaign disinformation..
-Hacking database..
-Hacking the voting software..
+• Fake news.. 
+• Campaign disinformation..
+• Hacking database..
+• Hacking the voting software..
 
 Because all of us have to get the power on our own with so much responsibility 
 
 
 # Blockchain built is for:
 
-Voting (video, vote, card...POH)
-Tax systems
-Security Services
-Issuing documents
+• Voting (video, vote, card...POH)
+• Tax systems
+• Security Services
+• Issuing documents
 
 
