@@ -153,17 +153,18 @@ By indexing the store data with hashes and put on the ledger we can prevent such
 
 # Also can prevent:
 
-• Fake news.. 
-• Campaign disinformation..
-• Hacking database..
-• Hacking the voting software..
+• Fake news
+• Campaign disinformation
+• Hacking database
+• Hacking the voting software
+
 
 Because all of us have to get the power on our own with so much responsibility 
 
 
 # Blockchain built is for:
 
-• Voting (video, vote, card...POH)
+• Voting 
 • Tax systems
 • Security Services
 • Issuing documents
