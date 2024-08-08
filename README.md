@@ -25,11 +25,11 @@ Planet Earth Identity Wallets —> Global Digital Passports (Storaged on IPFS)
 
 # Introduction:
 
-Ethereum works with a digital wallet (Metamask) 
+Ethereum (Metamask) 
 
-Planet Earth works with a digital Planet Earth Wallet ( MY PROJECT BUILT HERE)
+Planet Earth (Bitcoin-Nostr)
 
-I am downloading Ethereum to the real world —> So we need a digital wallet to allow people, nations and companies to interact in the Planet Earth Digital Jurisdiction 
+We need institutional digital wallets for people, nations and companies to interact in the Planet Earth Digital Jurisdiction 
 
 
 
