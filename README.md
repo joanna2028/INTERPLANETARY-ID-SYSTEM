@@ -156,22 +156,22 @@ Since the wallet usually keeps a history of interactions, the user can track who
 
 Tampering which such public records can affect citizens, business and publics services…
 
-By indexing the store data with hashes and put on the ledger we can prevent such tampering…. (Educate people to get the responsibility of their own data) —> Reputation for example
+By indexing the store data with hashes and put on the ledger we can prevent such tampering…. (Educate people to get the responsibility of their own data) —> REPUTATION.
 
 
 
 # Benefits;
 
-• Borders controls improve…
-• Efficient Taxation…
+* Borders controls improve…
+* Efficient Taxation…
 
 
 # Also can prevent:
 
-• Fake news
-• Campaign disinformation
-• Hacking database
-• Hacking the voting software
+* Fake news
+* Campaign disinformation
+* Hacking database
+* Hacking the voting software
 
 
 all of Us have to take our power and exercise it with the utmost responsibility.
@@ -179,9 +179,9 @@ all of Us have to take our power and exercise it with the utmost responsibility.
 
 # Blockchain serves for:
 
-• Voting 
-• Tax systems
-• Security Services
-• Issuing documents
+* Voting 
+* Tax systems
+* Security Services
+* Issuing documents
 
 
