@@ -1,8 +1,8 @@
 
-# INTERPLANETARY ID SYSTEM  - Planet Earth Digital Passports. 
+# INTERPLANETARY ID SYSTEM  - Global Digital Passports. 
 
 
-# IDENTITY WALLETS for Companies - Nations - Global Citizens
+# IDENTITY WALLETS for Global Citizens, Nation-States, Companies.
 
 
 https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit
@@ -12,26 +12,25 @@ https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/
 
 # DECENTRALIZED DIGITAL IDENTITY.  DIDs: Planetary Citizens
 
+DIGITAL ID on INTERNET = Planet Earth passports for EVERYONE.
 
-Planet Earth Identity Wallets —> Global Digital Passports (Stored on IPFS) 
 
+# what I built?
 
-# What I built?
+1- new Blockchain on Polygon for a Global Planet Earth Digital Jurisdiction. INTERNET
 
-1- a New Blockchain on Polygon for a Global Planet Earth Digital Jurisdiction
+2- worldwide institutionalized Wallet IDs (for people, nations, companies)
 
-2- a worldwide institutionalized Wallet ID
-
-3- a Web Browser extension of the wallet and Mobile for people to interact on the new Blockchain Global Digital Jurisdiction of Planet Earth = E-NET = The next generation of internet.
+3- web Browser extension of the wallet and mobile for people to interact on the new Blockchain Global Digital Jurisdiction of Planet Earth = E-NET = The next generation of internet.
 
 
 # Introduction:
 
 Ethereum (Metamask) 
 
-Planet Earth (Bitcoin-Nostr)
+Bitcoin + Internet Bank (Nostr)
 
-We need to institutionalize a digital ID. for people, nations and companies to interact in the Planet Earth Digital Jurisdiction 
+We need to institutionalize digital IDs. for people, nations and companies to interact on the INTERNET. (global digital jurisdiction)
 
 
 
@@ -40,85 +39,97 @@ We need to institutionalize a digital ID. for people, nations and companies to i
 
 FIRST,
 
-There is not standard mechanism for issuance of digital IDs.
+There is NO standard mechanism for issuance digital IDs.
 
-Yes we have standard with physical assets, for instance —>
+Yes we have standards for physical assets: 
 
-Passports depend on Aviation Regulations — > so, we do not need to agree with a one-on-one country. 
+Passports depend on Aviation Regulations —> UN agreement.
 
-But there is not standard for issuance of digital Passports.
+But there is NO standard for issuing digital Passports.
 
-To issue universal acceptance digital passports we need Digital Identifiers that individuals can OWN independent of any entity, organization or institution. DID.  
+To issue universal acceptance digital passports we need Digital Identifiers that individuals can OWN independently of any entity, organization or institution. DIDs.
 
-Currently we use Emails or Phones with different passwords to access websites and apps.
 
-There are wallet addresses like Metamask we use to exchange Cryptocurrency, could be also walletconnect, phantom, whatever... plenty of that. But there is not ONE Global wallet address that Proof our Identity as a global standar to interact with the entire Planet Earth Jurisdiction as a Blockchain.
+SECOND,
+
+We use Emails or Phones with different passwords to access websites and apps.
+
+There are wallet addresses we use to exchange Cryptocurrency..... plenty of that. But there is not ONE Global wallet address that Proof our Identity legal and as a global standard to interact on INTERNET.
+
+we need ONE and intitutionalized. LEGAL. ( we will do on X )
+
 
 # Let's take a look here:
 
-Ethereum Blockchain uses Metamask wallet to access and to sign the transactions to exchange many, to build an app, to interact with the Ethereum Blockchain.
+Ethereum Blockchain uses Metamask wallet to access and to sign the transactions to exchange money, to build apps, to sign contracts, to interact with Ethereum Blockchain.
 
-I built a new Blockchain on Polygon, exactly to put the entire Planet Earth on a Blockchain and use it as a Global Digital Jurisdiction of the Planet Earth. 
-I also built a wallet, like Metamask, to allow 7billion Global Citizens to interact with the Global Planet Earth Digital Jurisdiction Blockchain. 
+the plan is to land ETHEREUM on EARTH. (IDs for the entire humanity / Internet citizens)
 
-So, little by little my plan is to land ETHEREUM on the EARTH. 
+GLOBAL LEGAL WALLETS IDs for EVERYBODY. 
 
-Not only use the Blockchain as Ethereal was created to build apps, to exchange money, to get ETH and so on (Of course with the brilliant idea the smart contracts to do this interactions)….. but also to create new functionalities where 7billion people of the planet can use.
+1 person = 1 ID 
+1 company = 1 ID 
+1 Nation = 1 ID
 
-There is not either, standard universal for expressing —> exchanging —> verifying —> Credentials or IDs.
+we create new funtionalities for 8 billion human beings to interact with the INTERNET.
+
+There is also no universal standard for expressing —> exchanging —> verifying —> credentials or IDs.
 
 
 # How it works….?
 
-Here is Alice…  Her digital wallet, like Metamask, everyone know here, generates a unique identifier as signs it using a private key, other thing every people in Crypto know, (we have to move this to other functionalities, more useful for the entire population on the planet earth)
-This Private Key is secure by a Biometric proof or pin that only she knows…
+1 public key / 1 secret key
 
+WE OWN our DATA
 
+Private Key is secure by Biometric proof.
 
-The uniquely paired public Key is published to a distributed Ledger. This digital ID is private, this puts Alice in sole control of her digital ID and DATA. She makes the decision for it. 
-Verifiable ID, will make it easier to stay in control and help unlock more trustworthy internet and world. This is our plan: Rebuild Trust.
+The uniquely paired public Key is published to a distributed Ledger.
+everyone is in the sole control of their ID and DATA.
+everyone makes decisions and sign contracts.
 
-Connecting the wallet and checking transactions in Etherscan is something that can serve as in the entire planet to rebuild TRUST. Not only to do cryptocurrencies exchanges. (That by the way, we have Binance or Coinbase that today are using the old system of access the platform)
+Digital ID is private, this puts you and everybody in sole control of your digital ID and DATA. You make the decisions.
+Verifiable ID, will make it easier to stay in control and help unlock more trustworthy internet and world. KEY to Rebuild Trust.
 
-This leverage proven cryptographic system we use to exchange Crypto we can also use to:
-
-Being Global Citizens of the Planet Earth interacting on the Blockchain Planet Earth through their Sovereign Identity digital Passport.
-Track the government spending on the Blockchain Planet Earth (Track per country)
-Track the business between Private sector and public sector on the Blockchain Planet Earth 
+blockchain.com KEY to rebuild TRUST. worldwide.
 
 
 # Summary:
 
-We are merging with Consensys to create ID Global Wallets for:
+We are doing a merge with Consensys 
+We are in conversation with UN to institutionalize internet Digital IDs wallets for everybody
 
-• Citizens of the world
-• Nations of the world
-• Companies of the world.
+• Citizens 
+• Nation-States
+• Companies
 
-Not only we can track the spendings of the governments and the business between Private Sector and Public Sector but also, we can use it for:
+Not only we can track govts spending business between Private and Public Sector but also:
 
 * Taxation
 * Voting
 * Border crossing
 * Medical records
 
-(Just to list some, also you can get a loan, purchase a house… )
+(Just to list some, also you can get a loan, purchase a house, marry, transfer a car......)
 
 
 
 # KEY words:  INDIVIDUALS CONTROL , ENABLING TRUSTED 
 
-——
 
 # Sovereign Individual:
 
 
-How identity and historical inertia affects people? This is a classic issue with “hyper systems” folks (people who think at the macro macro scale). They don’t think about people or identity! This is tough: systems are the opposite of individuals. But we need to think about identity…
+How identity and historical inertia affects people? 
+
+This is a classic issue with “hyper systems” folks (people who think at the macro macro scale). 
+They don’t think about people or identity! This is tough: systems are the opposite of individuals.
+But we need to think about identity…
 
 
-——
-
-A digital identity wallet enables a user to establish relationships and interact with third parties in a trusted manner. While the wallet aspect is mainly dealing with key management, storage aspects and the graphical interface (UI = User Interface), the third party interactions are rather organised by your agent, which is a part of your wallet. Your agent handles third-party interactions in your name and acts in your interest. It is a piece of software, which helps you to stay in control of your messaging, security, health records, privacy, purchases etc.
+A digital identity wallet enables a user to establish relationships and interact with third parties in a trusted manner. 
+While the wallet aspect is mainly dealing with key management, storage aspects and the graphical interface (UI = User Interface), the third party interactions are rather organised by your agent, which is a part of your wallet. 
+Your agent handles third-party interactions in your name and acts in your interest. It is a piece of software, which helps you to stay in control of your messaging, security, health records, privacy, purchases etc.
 
 Not all the wallets are the same….
 
@@ -161,10 +172,10 @@ By indexing the store data with hashes and put on the ledger we can prevent such
 • Hacking the voting software
 
 
-Because all of us have to get the power on our own with so much responsibility 
+all of Us have to take our power and exercise it with the utmost responsibility.
 
 
-# Blockchain built is for:
+# Blockchain serves for:
 
 • Voting 
 • Tax systems
