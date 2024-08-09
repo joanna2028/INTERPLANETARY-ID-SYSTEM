@@ -160,7 +160,7 @@ By indexing the store data with hashes and put on the ledger we can prevent such
 
 
 
-# Benefits;
+# Benefits:
 
 * Borders controls improve…
 * Efficient Taxation…
@@ -174,7 +174,7 @@ By indexing the store data with hashes and put on the ledger we can prevent such
 * Hacking the voting software
 
 
-all of Us have to take our power and exercise it with the utmost responsibility.
+# all of Us have to take our power and exercise it with the utmost responsibility.
 
 
 # Blockchain serves for:
