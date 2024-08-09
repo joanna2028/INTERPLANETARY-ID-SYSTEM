@@ -50,11 +50,13 @@ But there is NO standard for issuing digital Passports.
 To issue universal acceptance digital passports we need Digital Identifiers that individuals can OWN independently of any entity, organization or institution. DIDs.
 
 
+
 SECOND,
 
 We use Emails or Phones with different passwords to access websites and apps.
 
-There are wallet addresses we use to exchange Cryptocurrency..... plenty of that. But there is not ONE Global wallet address that Proof our Identity legal and as a global standard to interact on INTERNET.
+There are wallet addresses we use to exchange Cryptocurrency..... plenty of that. 
+But there is not ONE Global wallet address that Proof our Identity legal and as a global standard to interact on INTERNET.
 
 we need ONE and intitutionalized. LEGAL. ( we will do on X )
 
