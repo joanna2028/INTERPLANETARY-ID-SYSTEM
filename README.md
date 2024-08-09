@@ -13,14 +13,16 @@ https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/
 # DECENTRALIZED DIGITAL IDENTITY.  DIDs: Planetary Citizens
 
 
-Planet Earth Identity Wallets —> Global Digital Passports (Storaged on IPFS) 
+Planet Earth Identity Wallets —> Global Digital Passports (Stored on IPFS) 
 
 
-1- I built a New Blockchain on Polygon for a Global Planet Earth Digital Jurisdiction
+# What I built?
 
-2- I built a new Wallet ID
+1- a New Blockchain on Polygon for a Global Planet Earth Digital Jurisdiction
 
-3- I built a Web Browser extension of the wallet and Mobile app to allow people to interact on the new Blockchain Global Digital Jurisdiction of Planet Earth = E-NET = The next generation of internet.
+2- a worldwide institutionalized Wallet ID
+
+3- a Web Browser extension of the wallet and Mobile for people to interact on the new Blockchain Global Digital Jurisdiction of Planet Earth = E-NET = The next generation of internet.
 
 
 # Introduction:
@@ -29,7 +31,7 @@ Ethereum (Metamask)
 
 Planet Earth (Bitcoin-Nostr)
 
-We need institutional digital wallets for people, nations and companies to interact in the Planet Earth Digital Jurisdiction 
+We need to institutionalize a digital ID. for people, nations and companies to interact in the Planet Earth Digital Jurisdiction 
 
 
 
