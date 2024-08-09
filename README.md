@@ -69,9 +69,9 @@ the plan is to land ETHEREUM on EARTH. (IDs for the entire humanity / Internet c
 
 GLOBAL LEGAL WALLETS IDs for EVERYBODY. 
 
-1 person = 1 ID 
-1 company = 1 ID 
-1 Nation = 1 ID
+* 1 person = 1 ID 
+* 1 company = 1 ID 
+* 1 Nation = 1 ID
 
 we create new funtionalities for 8 billion human beings to interact with the INTERNET.
 
