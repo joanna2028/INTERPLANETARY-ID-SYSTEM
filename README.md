@@ -1,8 +1,8 @@
 
-# INTERPLANETARY ID SYSTEM  - Global Digital Passports. 
+# INTERNET ID SYSTEM  -  Planet Earth Passports
 
 
-# IDENTITY WALLETS for Global Citizens, Nation-States, Companies.
+# Wallet IDs for Internet Citizens, Nation-States, Companies.
 
 
 https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit
