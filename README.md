@@ -1,5 +1,5 @@
 
-# INTERNET ID SYSTEM  -  Digital Planet Earth Passports
+# INTERNET ID SYSTEM  -  Planet Earth Passports (digital)
 
 
 # Wallet IDs for Internet Citizens, Nation-States, Companies.
