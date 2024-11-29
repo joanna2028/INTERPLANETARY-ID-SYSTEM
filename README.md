@@ -30,13 +30,13 @@ BITCOIN IDs on INTERNET = Planet Earth passports for EVERYONE.
 
 Ethereum (Metamask) 
 
-Bitcoin + Internet Bank (Nostr)
+Bitcoin + (Nostr)  =  BITCOIN BANK ( aka INTERNET BANK )
 
-We need to institutionalize digital IDs. for people, nations and companies to interact on the INTERNET. (global digital jurisdiction)
+We need to institutionalize digital IDs. for people, nations and companies to interact on the INTERNET. (global digital jurisdiction. LEGAL.
 
 
 
-# PLANET EARTH DIGITAL IDENTITY
+# PLANET EARTH DIGITAL IDENTITY. LEGAL
 
 
 FIRST,
@@ -58,20 +58,20 @@ SECOND,
 We use Emails or Phones with different passwords to access websites and apps.
 
 There are wallet addresses we use to exchange Cryptocurrency..... plenty of that. 
-But there is not ONE Global wallet address that Proof our Identity legal and as a global standard to interact on INTERNET.
+But there is not ONE Global wallet address that proves our Identity legal and as a global standard to interact on the INTERNET.
 
 we need ONE and institutionalized. LEGAL. ( we will do on X )
 
 
 # Let's take a look here:
 
-Ethereum Blockchain uses Metamask wallet to access and sign the transactions to exchange money, build apps, sign contracts, interact with Ethereum Blockchain.
+Ethereum Blockchain uses Metamask wallet to access and sign transactions to exchange money, build apps, sign contracts, and interact with Ethereum Blockchain.
 
-the plan is to land ETHEREUM on EARTH. (IDs for the entire humanity / Internet citizens)
+the plan is to land ETHEREUM on EARTH. (IDs for the entire humanity / Internet citizens). 
 
-and the SOLUTION is BITCOIN and NOSTR ( the new INTERNET PROTOCOL ) for the social media / for the payments 
+and the SOLUTION is BITCOIN and NOSTR ( the new INTERNET PROTOCOL ) for the social media / for the payment transactions
 
-GLOBAL LEGAL WALLETS IDs for EVERYBODY. BITCOIN
+GLOBAL LEGAL WALLETS IDs for EVERYBODY. BITCOIN - NOSTR
 
 * 1 person = 1 ID 
 * 1 company = 1 ID 
@@ -84,15 +84,15 @@ There is also no universal standard for expressing —> exchanging —> verifyin
 
 # How it works….?
 
-1 public key / 1 secret key. ( NOSTR protocol )
+1 public key / 1 secret key. ( NOSTR PROTOCOL )
 
 WE OWN our DATA
 
-Private Key is secure by Biometric proof.
+Private Key is secured by Biometric proof.
 
 The uniquely paired public Key is published to a distributed Ledger.
 everyone is in the sole control of their ID and DATA.
-everyone makes decisions and sign contracts.
+everyone makes decisions and signs contracts.
 
 Digital ID is private, this puts you and everybody in sole control of your digital ID and DATA. You make the decisions.
 Verifiable IDs, will make it easier to stay in control and help unlock more trustworthy internet and world. KEY to Rebuild Trust.
