@@ -4,7 +4,7 @@
 
 # Wallet IDs for Internet Citizens, Nation-States, Companies.
 
-# BITCOIN 
+# BITCOIN NOSTR INTERNET PROTOCOL
 
 
 https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit
