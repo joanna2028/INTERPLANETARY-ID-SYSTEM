@@ -4,6 +4,8 @@
 
 # Wallet IDs for Internet Citizens, Nation-States, Companies.
 
+# BITCOIN 
+
 
 https://docs.google.com/document/d/1mKfYpvp44EFHc4ZLKeQ42f6tS3H2wYwcgKYU1nV1q_I/edit
 
@@ -12,14 +14,14 @@ https://docs.google.com/document/d/1h4Hp4WBvlf7uAcdcTOJx4oQfrS8ZbH3-2XznwlGXer4/
 
 # DECENTRALIZED DIGITAL IDENTITY.  DIDs: Planetary Citizens
 
-DIGITAL ID on INTERNET = Planet Earth passports for EVERYONE.
+BITCOIN IDs on INTERNET = Planet Earth passports for EVERYONE.
 
 
-# what I built?
+# what i built?
 
 1- new Blockchain on Polygon for a Global Planet Earth Digital Jurisdiction. INTERNET
 
-2- worldwide institutionalized Wallet IDs (for people, nations, companies)
+2- worldwide institutionalized Wallet IDs (for people, nations, companies). BITCOIN
 
 3- web Browser extension of the wallet and mobile for people to interact on the new Blockchain Global Digital Jurisdiction of Planet Earth = E-NET = The next generation of internet.
 
@@ -58,29 +60,31 @@ We use Emails or Phones with different passwords to access websites and apps.
 There are wallet addresses we use to exchange Cryptocurrency..... plenty of that. 
 But there is not ONE Global wallet address that Proof our Identity legal and as a global standard to interact on INTERNET.
 
-we need ONE and intitutionalized. LEGAL. ( we will do on X )
+we need ONE and institutionalized. LEGAL. ( we will do on X )
 
 
 # Let's take a look here:
 
-Ethereum Blockchain uses Metamask wallet to access and to sign the transactions to exchange money, to build apps, to sign contracts, to interact with Ethereum Blockchain.
+Ethereum Blockchain uses Metamask wallet to access and sign the transactions to exchange money, build apps, sign contracts, interact with Ethereum Blockchain.
 
 the plan is to land ETHEREUM on EARTH. (IDs for the entire humanity / Internet citizens)
 
-GLOBAL LEGAL WALLETS IDs for EVERYBODY. 
+and the SOLUTION is BITCOIN and NOSTR ( the new INTERNET PROTOCOL ) for the social media / for the payments 
+
+GLOBAL LEGAL WALLETS IDs for EVERYBODY. BITCOIN
 
 * 1 person = 1 ID 
 * 1 company = 1 ID 
 * 1 Nation = 1 ID
 
-we create new funtionalities for 8 billion human beings to interact with the INTERNET.
+we create new functionalities for 8 billion human beings to interact with the INTERNET. ( BITCOIN - NOSTR ) PROTOCOL
 
-There is also no universal standard for expressing —> exchanging —> verifying —> credentials or IDs.
+There is also no universal standard for expressing —> exchanging —> verifying —> credentials or IDs. ( BITCOIN - NOSTR ) PROTOCOL
 
 
 # How it works….?
 
-1 public key / 1 secret key
+1 public key / 1 secret key. ( NOSTR protocol )
 
 WE OWN our DATA
 
@@ -91,7 +95,7 @@ everyone is in the sole control of their ID and DATA.
 everyone makes decisions and sign contracts.
 
 Digital ID is private, this puts you and everybody in sole control of your digital ID and DATA. You make the decisions.
-Verifiable ID, will make it easier to stay in control and help unlock more trustworthy internet and world. KEY to Rebuild Trust.
+Verifiable IDs, will make it easier to stay in control and help unlock more trustworthy internet and world. KEY to Rebuild Trust.
 
 blockchain.com KEY to rebuild TRUST. worldwide.
 
@@ -99,13 +103,13 @@ blockchain.com KEY to rebuild TRUST. worldwide.
 # Summary:
 
 We are doing a merge with Consensys 
-We are in conversation with UN to institutionalize internet Digital IDs wallets for everybody
+We are in conversations with the UN to institutionalize internet Digital IDs for everybody
 
 • Citizens 
 • Nation-States
 • Companies
 
-Not only we can track govts spending business between Private and Public Sector but also:
+We can not only track govt spending and contracts between Private and Public Sectors but also:
 
 * Taxation
 * Voting
